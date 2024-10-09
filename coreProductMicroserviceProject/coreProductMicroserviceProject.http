@@ -1,0 +1,6 @@
+@coreProductMicroserviceProject_HostAddress = http://localhost:5173
+
+GET {{coreProductMicroserviceProject_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
