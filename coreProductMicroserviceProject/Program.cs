@@ -1,10 +1,10 @@
 using coreProductMicroserviceProject.Models;
+using coreProductMicroserviceProject.Repository;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-
 builder.Services.AddControllers();
 
 builder.Services.AddDbContext<ProductDbContext>(
@@ -12,6 +12,8 @@ builder.Services.AddDbContext<ProductDbContext>(
         builder.Configuration.GetConnectionString("productdb")
         )
     );
+
+builder.Services.AddTransient<IProductRepository, ProductRepository>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
