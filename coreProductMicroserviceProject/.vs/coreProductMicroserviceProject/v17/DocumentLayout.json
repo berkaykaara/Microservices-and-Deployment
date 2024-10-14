@@ -3,8 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -22,11 +30,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:05:19.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:05:17.311Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Product.cs",
               "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\Product.cs",
               "RelativeDocumentMoniker": "Models\\Product.cs",
@@ -34,12 +68,11 @@
               "RelativeToolTip": "Models\\Product.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:18:05.35Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T21:18:05.35Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "ProductRepository.cs",
               "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Repository\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
@@ -47,18 +80,17 @@
               "RelativeToolTip": "Repository\\ProductRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:17:12.89Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-13T21:17:12.89Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ProductController.cs",
               "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\ProductController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\ProductController.cs",
               "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAqwD8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-12T22:16:35.588Z",
               "EditorCaption": ""
