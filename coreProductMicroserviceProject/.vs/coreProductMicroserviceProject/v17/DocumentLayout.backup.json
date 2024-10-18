@@ -3,16 +3,52 @@
   "WorkspaceRootPath": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\coreproductmicroserviceproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:coreproductmicroserviceproject.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:.filenesting.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|c:\\users\\msi-nb\\desktop\\microservices-and-deployment\\coreproductmicroserviceproject\\coreproductmicroserviceproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{83B0C8D0-AB55-421E-A12C-85DA39BE9890}|coreProductMicroserviceProject.csproj|solutionrelative:coreproductmicroserviceproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,19 +58,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAIwEcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:18:05.35Z",
+              "WhenOpened": "2024-10-18T18:43:48.098Z",
               "EditorCaption": ""
             },
             {
@@ -45,23 +81,135 @@
               "RelativeDocumentMoniker": "Repository\\ProductRepository.cs",
               "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Repository\\ProductRepository.cs",
               "RelativeToolTip": "Repository\\ProductRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowC0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-13T21:17:12.89Z",
+              "WhenOpened": "2024-10-18T18:42:35.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "Repository\\IProductRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:42:02.568Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T22:16:35.588Z",
+              "WhenOpened": "2024-10-16T01:10:17.44Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:35:02.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "Models\\ProductDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T18:35:00.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T01:10:40.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T01:10:29.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "coreProductMicroserviceProject",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\coreProductMicroserviceProject.csproj",
+              "RelativeDocumentMoniker": "coreProductMicroserviceProject.csproj",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\coreProductMicroserviceProject.csproj",
+              "RelativeToolTip": "coreProductMicroserviceProject.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T01:10:37.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": ".filenesting.json",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\.filenesting.json",
+              "RelativeDocumentMoniker": ".filenesting.json",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\.filenesting.json",
+              "RelativeToolTip": ".filenesting.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-16T01:10:31.576Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T01:10:27.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "coreProductMicroserviceProject.http",
+              "DocumentMoniker": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\coreProductMicroserviceProject.http",
+              "RelativeDocumentMoniker": "coreProductMicroserviceProject.http",
+              "ToolTip": "C:\\Users\\msi-nb\\Desktop\\Microservices-and-Deployment\\coreProductMicroserviceProject\\coreProductMicroserviceProject.http",
+              "RelativeToolTip": "coreProductMicroserviceProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-10-16T01:09:53.33Z"
             }
           ]
         }
